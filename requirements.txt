@@ -9,3 +9,5 @@ python-dotenv
 pydantic
 requests
 typing-extensions
+langchain-groq
+psycopg[binary]
