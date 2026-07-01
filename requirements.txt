@@ -11,3 +11,4 @@ requests
 typing-extensions
 langchain-groq
 psycopg[binary]
+langgraph-checkpoint-postgres
